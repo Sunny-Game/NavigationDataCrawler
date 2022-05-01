@@ -1,6 +1,3 @@
 [submodule "SubmoduleDemo"]
 	path = SubmoduleDemo
 	url = https://github.com/plaxbsga/SubmoduleDemo.git
-[submodule "SubmoduleDemo2"]
-	path = SubmoduleDemo2
-	url = https://github.com/plaxbsga/SubmoduleDemo2.git
